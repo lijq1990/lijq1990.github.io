@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Notes for build this site"
+date:   2015-11-17 16:16:01 -0600
+categories: site build note
+---
+
 __初始化本地文件夹__
 ```$ git init```
 ``` Initialized empty Git repository in /Users/michael/learngit/.git/```
