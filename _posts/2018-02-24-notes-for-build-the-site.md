@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes for build this site"
 date:   2015-11-17 16:16:01 -0600
-categories: site build note
+categories: site_building
 ---
 
 __初始化本地文件夹__
